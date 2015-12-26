@@ -1,2 +1,2 @@
-# FloatingBoat
+# FlyingBoats
 FlyingBoat in PocketMine
